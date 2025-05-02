@@ -17,20 +17,15 @@
             "group": "Get Started",
             "pages": [
               "introduction",
-              "Automatic News",
-              "Automatic RSS Feeds",
-              "Automatic Topic News"
+              "invite",
             ]
           },
           {
             "group": "Essentials",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "Automatic News",
+              "Automatic RSS Feeds",
+              "Automatic Topic News"
             ]
           }
         ]
