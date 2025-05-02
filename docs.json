@@ -16,7 +16,7 @@
           {
             "group": "Get Started",
             "pages": [
-              "Introduction",
+              "introduction",
               "Automatic News",
               "Automatic RSS Feeds",
               "Automatic Topic News"
