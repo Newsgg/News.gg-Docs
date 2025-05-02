@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "News.gg DoCS",
+  "name": "News.gg Docs",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#FFFFFF",
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/icon.svg",
   "navigation": {
     "tabs": [
       {
